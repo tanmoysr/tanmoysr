@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **tanmoysr2026@yahoo.com**
 
-- 📄 Know more about me [www.tanmoychowdhury.com](www.tanmoychowdhury.com)
+- 📄 Know more about me: [www.tanmoychowdhury.com](www.tanmoychowdhury.com)
 
 - ⚡ Fun fact: **I don't know the answer, I know where to look for the answer.**
 
