@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **some data science and software development related projects.**
 
-- 👯 I’m looking to collaborate on **multi-task learning and cross domain related projects.**
+- 👯 I’m looking to collaborate on **multi-task learning and cross-domain related projects.**
 
 <!-- - 📝 I write articles on [https://blog.tanmoychowdhury.com/](https://blog.tanmoychowdhury.com/)
 
@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tanmoysr&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&disable_animations=true&theme=dracula&locale=en&layout=compact&card_width=320" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoysr&theme=dracula&hide_border=true" height="150" alt="stats graph 2"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -87,7 +87,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tanmoysr&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
 <!-- ### Profile View -->
-<p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12" alt="profileView" /></a> </p>
+[![](https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Resources:
 1. https://gprm.itsvg.in
@@ -135,7 +135,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanmoysr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmoysr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-<!-- [![](https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12)](https://visitcount.itsvg.in) -->
+<!-- <p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12" alt="profileView" /></a> </p>
+
+[![](https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
