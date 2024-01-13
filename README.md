@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **I don't know the answer, I know where to look for the answer.**
 
 ## 🌐 Find Me:
-[![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white%20resize)](www.tanmoychowdhury)
+[![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white%20resize)](www.tanmoychowdhury.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmoysr2026)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tanmoy-Chowdhury-7)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/tanmoysr2026)
