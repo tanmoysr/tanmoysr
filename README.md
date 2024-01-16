@@ -70,7 +70,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white )
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) 
-
+<!-- 
 ## 📊 GitHub Stats:
 
 <div align="left">
@@ -79,17 +79,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-contributor-stats.vercel.app/api?username=tanmoysr&locale=en&hide_title=false&layout=compact&card_width=320&limit=6&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" height="150" alt="contribution"  />
 </div>
-
+-->
 <!-- ## 🏆 GitHub Trophies -->
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmoysr&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="trophy" /></a> </p>
-
+-->
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanmoysr&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
 <!-- ### Profile View -->
-
+<!-- 
 [![](https://visitcount.itsvg.in/api?id=tanmoysr&icon=0&color=12)](https://visitcount.itsvg.in)
-
+-->
 <!-- Resources:
 1. https://gprm.itsvg.in
 2. https://rahuldkjain.github.io/gh-profile-readme-generator/
