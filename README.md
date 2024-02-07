@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist and software developer.</h3>
 
 
-- 🔭 I’m currently working on **some data science and software development related projects.**
+- 🔭 I’m currently working on **some data science and software development-related projects.**
 
 - 👯 I’m looking to collaborate on **multi-task learning and cross-domain related projects.**
 
@@ -19,13 +19,13 @@
 ## 🌐 Find Me:
 [![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white%20resize)](https://www.tanmoychowdhury.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmoysr2026)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tanmoy-Chowdhury-7)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Tanmoy-Chowdhury-2)
+<!--[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tanmoy-Chowdhury-7)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/tanmoysr2026)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15045907/tanmoy-chowdhury)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tanmoysr/)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Tanmoy-Chowdhury-2) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tanmoysr/) 
 [![Eblogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.tanmoychowdhury.com/)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010c5acc9f4b4d85d2)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010c5acc9f4b4d85d2)-->
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
