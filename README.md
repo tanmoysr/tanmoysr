@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Tanmoy Chowdhury.</h1>
-<h3 align="center">A passionate data scientist and software developer.</h3>
+<h3 align="center">Research Engineer specializing in AI, Multi-Task Learning, and Cross-Domain Reasoning.</h3>
 
 
 - 🔭 I’m currently working on **some data science and software development-related projects.**
