@@ -90,6 +90,7 @@ This list reflects the languages, frameworks, and tools I use across development
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats:
 
 <div align="left">
@@ -98,6 +99,7 @@ This list reflects the languages, frameworks, and tools I use across development
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoysr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-contributor-stats.vercel.app/api?username=tanmoysr&locale=en&hide_title=false&layout=compact&card_width=320&limit=6&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" height="150" alt="contribution"  />
 </div>
+
 -->
 <!-- ## 🏆 GitHub Trophies -->
 <!-- 
