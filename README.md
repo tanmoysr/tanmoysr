@@ -1,10 +1,11 @@
 <h1 align="center">Hi! I'm Tanmoy Chowdhury.</h1>
-<h3 align="center">Computer Scientist specializing in AI, Multi-Task Learning, and Cross-Domain Reasoning.</h3>
+<h2 align="center">Engineer • Researcher</h2>
+<h3 align="center">Building developer tools, intelligent systems, and open-source software.</h3>
 
 
-- 🔭 I’m currently working on **some data science and software development-related projects.**
+- 🔭 I’m currently designing performance-aware systems, API integrations, and rapid prototyping workflows.
 
-- 👯 I’m looking to collaborate on **multi-task learning and cross-domain related projects.**
+- 🤝 Open to collaborating on developer tools, intelligent systems, and research-driven software.
 
 <!-- - 📝 I write articles on [https://blog.tanmoychowdhury.com/](https://blog.tanmoychowdhury.com/)
 
@@ -14,7 +15,7 @@
 
 - 📄 Know more about me: [www.tanmoychowdhury.com](https://www.tanmoychowdhury.com/)
 
-- ⚡ Fun fact: **I don't know the answer, I know where to look for the answer.**
+- ⚡ Fun fact: **I don't know the answer; I know where to look for the answer.**
 
 ## 🌐 Find Me:
 [![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white%20resize)](https://www.tanmoychowdhury.com/)
